@@ -17,6 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.11.7"
+    "@types/node": "^20.11.10"
   }
 }
